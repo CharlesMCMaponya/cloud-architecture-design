@@ -1,6 +1,6 @@
 # 🏗️ Cloud Architecture Design: Scalable Blogging Platform (AWS)
 
-This project is a professional-level cloud architecture design for a scalable blogging application on AWS. It demonstrates best practices in designing for scalability, fault tolerance, and cost-efficiency — the kind used in real-world DevOps and Solutions Architecture roles.
+This project is a professional level cloud architecture design for a scalable blogging application on AWS. It demonstrates best practices in designing for scalability, fault tolerance, and cost efficiency the kind used in real world DevOps and Solutions Architecture roles.
 
 ---
 
@@ -18,7 +18,7 @@ This design includes:
 
 ## 🖼️ Architecture Diagram
 
-_📍 Open `architecture-diagram.drawio` or view the image below:_
+ Open `architecture-diagram.drawio` or view the image below:_
 
 ![AWS Architecture Diagram](./architecture-diagram.png)
 
@@ -49,7 +49,7 @@ cloud-architecture-design/
 
 ## 🧠 Why I Built This
 
-Designing before building is how real engineers and cloud architects work. I created this to sharpen my ability to think at the system level — balancing security, performance, and cost. It’s more than just diagrams — it’s how you plan systems that work.
+Designing before building is how real engineers and cloud architects work. I created this to sharpen my ability to think at the system level balancing security, performance, and cost. It’s more than just diagrams  it’s how you plan systems that work.
 
 ---
 
